@@ -1,4 +1,7 @@
 # CasaOS-AppManagement
+to run:
+cd ~/CasaOS-Gateway
+sudo /usr/local/go/bin/go run .
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/IceWhaleTech/CasaOS-AppManagement.svg)](https://pkg.go.dev/github.com/IceWhaleTech/CasaOS-AppManagement)
 [![Go Report Card](https://goreportcard.com/badge/github.com/IceWhaleTech/CasaOS-AppManagement)](https://goreportcard.com/report/github.com/IceWhaleTech/CasaOS-AppManagement)
